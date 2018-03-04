@@ -1,11 +1,13 @@
 # Hello_World
 
-'''
+```python
+
 import numpy as np
 
 for i in range(100):
     print(np.ones(i))
-'''
+
+```
 
 ###### Checking how the commit and pull request functions of GitHub works
 
