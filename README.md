@@ -1,9 +1,11 @@
 # Hello_World
-<<<<<<< HEAD
-[**_My first GitHub repository_**](www.google.com) 
-=======
-[**_My first GitHub repository_**](www.google.com) 
->>>>>>> master
+
+'''
+import numpy as np
+
+for i in range(100):
+    print(np.ones(i))
+'''
 
 ###### Checking how the commit and pull request functions of GitHub works
 
