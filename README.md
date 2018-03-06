@@ -13,7 +13,7 @@ for i in range(100):
 
 Commiting from the pyCharm
 
->![A presentation of Octdrey Catburn](http://octodex.github.com/images/octdrey-catburn.jpg)
+![A presentation of Octdrey Catburn](https://github.com/KAIST-IS521/2018s-presentation-team1/blob/first/desk.png)
 
 **Commiting from the pyCharm**
 
