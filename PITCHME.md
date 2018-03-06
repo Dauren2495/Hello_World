@@ -42,7 +42,8 @@ so we wanted to reflect this in our team name
 
 ### screenshot 
 
----?image=desk.png&size=auto 90%
+![Logo](desk.png)
+---
 
 ### CONCLUDING REMARK
 
