@@ -3,7 +3,7 @@
 * App which could block certain websites and apps
 * But, can't be removed ( system level privelege )
 
----
++++
 
 ### Extension - Parental Control app
 
