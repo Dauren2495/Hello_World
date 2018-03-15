@@ -1,13 +1,13 @@
 ### Last Time 
 
 * App which could block certain websites and apps
-* But, can't be removed
+* But, can't be removed ( system level privelege )
 
 ---
 
 ### Extension - Parental Control app
 
-* Slave - Master model
+* Master - Slave model
 * Slave has to approve Master's request 
 
 ---
@@ -17,13 +17,14 @@
  * How much each app is used
  * Browser history
  * GPS info
+ * etc.
 
 ---
 
 ### Main features(contd)
 
 2. Master is able to:  
- * Block any app on slave slide
+ * Block any app on Slave side
  * Block any website
  
 3. Master gets notifications if slave's location  
