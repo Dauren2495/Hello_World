@@ -1,53 +1,33 @@
-# MICE
+# Last Time 
 
-* Mincheol Son
-* Dauren Serkeshev
-* Seong Ho Han
-* Jiwon Choi
-
-_TA: Geonwoo Kim_
+* App which could block certain websites and apps
+* But, can't be removed
 
 ---
 
-### TEAM INTRODUCTION
+# Extension - Parental Control app
 
- **MICE**
-> **M**echanical engineering(name 1)  
-  **I**ndustrial engineering(Dauren Serkeshev)  
-  **C**omputer science(name 2)  
-  **E**letrical engineering(name 3)  
+* Slave - Master model
+* Slave has to approve Master's request 
 
-Note:
-During our first team meeting we discovered that we all came from different backgrounds,
-so we wanted to reflect this in our team name 
+---
+# Main features
+
+1. Master gets all log info of Slave
+ * How much each app is used
+ * Browser history
+ * GPS info
 
 ---
 
-### Dauren Serkeshev
+# Main features(contd)
 
-* From Kazakhstan
-* Majoring in Industrial Engineering
-* Research in Reinforcement Learning
-
----
-
-### Environment
-
-* bash
-* vim
-* mutt email client
+2. Master is able to:
+ * Block any app on slave slide
+ * Block any website
  
-
----
-
-### screenshot 
-
-![Logo](desk.png)
----
-
-### CONCLUDING REMARK
-
-Try to make a good final impression here. You should try to make people want to
-know more about you. Each team can spend at most 1 min. for both introduction
-and conclusion slide.
-
+3. Master gets notifications if slave's location  
+deviates by certain amount from the predefined route
+ 
+ 
+ 
