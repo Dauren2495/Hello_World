@@ -28,7 +28,5 @@
  * Block any website
  
 3. Master gets notifications if slave's location  
-deviates by certain amount from the predefined route
- 
  
  
