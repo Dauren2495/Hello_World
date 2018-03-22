@@ -30,5 +30,5 @@ Parental Control app
 ---
 # Why to choose
 
-1. Useful to everyone
+1. Learn about control restrictions in android
 2. Not difficult to implement
