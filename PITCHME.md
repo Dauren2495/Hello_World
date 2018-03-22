@@ -15,10 +15,11 @@ Parental Control app
  * Block any website   
 ---
 
-# Implementation
+# Implementation  
  1._The Device Administration API_
   * Make the device lock immediately.
   * Perform data wipe  
+  
  2._Google Maps Android API_
   * Get access to GPS data
 
