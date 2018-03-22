@@ -17,15 +17,13 @@ Parental Control app
 
 # Implementation  
 1._The Device Administration API_
-* Make the device lock immediately.
-* Perform data wipe
-* Log info of apps
-  
+ * Make the device lock immediately.
+ * Perform data wipe
+ * Log info of apps
 2._Google Maps Android API_
-* Get access to GPS data
-
-3. _Nework working_
-
+ * Get access to GPS data
+3._Nework working_
+ 
 ---
 # Why to choose
 
