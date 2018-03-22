@@ -1,6 +1,8 @@
 # Main Idea
 
 Parental Control app
+ * Target: Parents 
+ * Problem: Get more info. about their children
 
 ---
 
