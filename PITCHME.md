@@ -1,2 +1,2 @@
 # Messenger design
-![Logo](images/DBSERVER.png)
+![Logo](DBSERVER.png)
