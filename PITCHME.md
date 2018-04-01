@@ -1,5 +1,5 @@
 # Messenger design
-![Logo](dbserver.png)
+![Logo](dbserve.png)
 
 ---
 # Send Message
